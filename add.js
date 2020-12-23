@@ -18,7 +18,7 @@ function aprouve() {
 function refu(){
     div2.style.display = "none";
     modale.style.backgroundColor= "red";
-    para.innerHTML = "vous moins de 18 ans !!!"
+    para.innerHTML = "vous avez moins de 18 ans !!!"
     document.body.style.backgroundColor = "grey";
 }
 
