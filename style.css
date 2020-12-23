@@ -5,7 +5,7 @@
 }
 
 html {
-    font-size: 18px;
+    font-size: 24px;
 }
 
 body {
@@ -24,7 +24,6 @@ body {
     height:40%;
     background-color: cornflowerblue;
     display: none;
-
 }
 
 #div1 {
@@ -44,4 +43,7 @@ body {
     flex-direction: row;
     justify-content: space-evenly;
     background-color: grey;
+}
+button{
+    font-size: 24px;
 }
